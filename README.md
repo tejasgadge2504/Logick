@@ -71,6 +71,7 @@ Refer to the architecture diagram to understand how LOGICK components interact, 
 Full technical documentation, SDK usage, architecture details, and detection engine explanation are available in the LOGICK GitBook.
 
 > GitBook Documentation:[ *(Link)*](https://anisha.gitbook.io/logick)
+> LOGICK SDK:[ *(Link)*](https://central.sonatype.com/artifact/io.github.niraj2036/logick-java)
 
 ---
 
