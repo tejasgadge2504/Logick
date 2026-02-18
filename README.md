@@ -3,6 +3,8 @@
   <img src="readme_img/img.png" alt="Demo" width="700" />
 </p>
 
+Team INSPIRE Organization:[ *(Link)*](https://github.com/orgs/Team-INSPIRE2226/repositories)
+
 # LOGICK
 
 LOGICK is a log-level security monitoring tool designed to detect Log4Shell and related Log4j exploit attempts directly from application logs. Instead of relying on network-level monitoring, LOGICK works where the attack actually appears — inside logs — allowing early detection of malicious payloads before serious damage occurs.
